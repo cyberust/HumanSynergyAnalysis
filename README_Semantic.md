@@ -1,6 +1,6 @@
 # Human Synergy Analysis System V2 (Semantic Analysis Version)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberust/HumanSynergyAnalysis/blob/main/HumanSynergySemanticAnalysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberust/HumanSynergyAnalysis/blob/main/HumanSynergySemanticAnalysis_jp.ipynb)
 
 **注記**：上記の "Open in Colab" バッジを機能させるには、URL内の `YOUR_USERNAME`、`YOUR_REPOSITORY`、`YOUR_NOTEBOOK_NAME.ipynb` を、ご自身のGitHubアカウント名、リポジトリ名、アップロードしたノートブックのファイル名に書き換えてください。
 
