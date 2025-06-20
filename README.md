@@ -1,6 +1,6 @@
 # Human Synergy Analysis System
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberust/HumanSynergyAnalysis/blob/main/HumanSynergyAnalysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cyberust/HumanSynergyAnalysis/blob/main/HumanSynergyAnalysis_jp.ipynb)
 
 ## 概要
 
